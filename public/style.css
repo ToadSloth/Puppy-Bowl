@@ -1,0 +1,35 @@
+
+body {
+    margin: 200px;
+    background-color: rgb(60, 112, 60);
+    border: solid 15px;
+}
+h1 {
+    font-size: 50px;
+}
+
+
+img {
+    height: 700px;
+    width: 700px;
+}
+
+
+#app {
+    background-color: lightgreen;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.name {
+    font-size: 30px;
+    
+    
+}
+
+.breed {
+    font-size: 30px;
+}
